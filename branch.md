@@ -1,0 +1,7 @@
+## 브랜치 전략
+
+- MASTER
+- HOTFIX
+- RELEASE
+- DEVELOP
+- FEAUTRE
